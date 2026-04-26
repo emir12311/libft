@@ -6,5 +6,6 @@ Hello people! This is just my way of making the library they make you do in the 
 - ft_print_alphabet
 - ft_print_reverse_alphabet
 - ft_print_numbers
+- ft_is_negative
 
 (More will come..)
