@@ -1,3 +1,6 @@
 *
+!.gitignore
 !ex*/
 !*.*
+a.out
+*.out
