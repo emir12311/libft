@@ -5,16 +5,3 @@ Hello people! This is just my way of making the library they make you do in the 
 - ft_putchar
 
 (More will come..)
-
-## How to run it
-First, compile it using GCC:
-```bash
-gcc -Wall -Wextra -Werror functions.c -o functions
-```
-Then you can just run it via:
-```bash
-# Linux / MacOS
-./functions
-# Windows
-.\functions
-```
