@@ -9,5 +9,6 @@ Hello people! This is just my way of making the library they make you do in the 
 - ft_is_negative (ex04)
 - ft_print_comb (ex05)
 - ft_print_comb2 (ex06)
+- ft_putnbr (ex07) (*i overcomplicated it*)
 
 (More will come..)
