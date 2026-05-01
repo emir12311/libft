@@ -1,5 +1,6 @@
 *
 !.gitignore
+!C*/
 !ex*/
 !*.*
 a.out
