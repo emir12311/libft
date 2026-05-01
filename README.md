@@ -16,4 +16,8 @@ Hello people! This is just my way of making the library they make you do in the 
 | ex08 | `ft_print_combn` | Displays combinations of n digits |
 
 ### C01
+| Exercise | Function Name | Description |
+| :--- | :--- | :--- |
+| ex00 | `ft_ft` | Sets the value of an integer to 42 through a pointer. |
+| ex01 | `ft_ultimate_ft` | Sets the value of an integer to 42 through a nine-level pointer. |
 (More will come..)
