@@ -21,7 +21,9 @@ Hello people! This is just my way of making the library they make you do in the 
 | ex00 | `ft_ft` | Sets the value of an integer to 42 through a pointer. |
 | ex01 | `ft_ultimate_ft` | Sets the value of an integer to 42 through a nine-level pointer. |
 | ex02 | `ft_swap` | Swaps the given 2 integers values. |
-| ex01 | `ft_div_mod` | Calculates division and remainder, storing results through pointers. |
-| ex02 | `ft_ultimate_div_mod` | Divides and modulos two integers, overwriting the original values via pointers. |
+| ex03 | `ft_div_mod` | Calculates division and remainder, storing results through pointers. |
+| ex04 | `ft_ultimate_div_mod` | Divides and modulos two integers, overwriting the original values via pointers. |
+| ex05 | `ft_putstr` | Displays a string. |
+| ex06 | `ft_strlen` | Counts and returns the number of characters in a string. |
 
 (More will come..)
