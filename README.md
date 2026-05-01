@@ -2,13 +2,18 @@
 Hello people! This is just my way of making the library they make you do in the Piscine at 42. Since I am planning to head to 42 Kocaeli after high school, I wanted to start early on the logic and the rules they have. It's definitely different from my usual projects, but it's been great for learning how things work under the hood.
 
 ## Whats inside
-- ft_putchar (ex00)
-- ft_print_alphabet (ex01)
-- ft_print_reverse_alphabet (ex02)
-- ft_print_numbers (ex03)
-- ft_is_negative (ex04)
-- ft_print_comb (ex05)
-- ft_print_comb2 (ex06)
-- ft_putnbr (ex07) (*i overcomplicated it*)
+### C00
+| Exercise | Function Name | Description |
+| :--- | :--- | :--- |
+| ex00 | `ft_putchar` | Outputs a single character |
+| ex01 | `ft_print_alphabet` | Displays the alphabet in lowercase |
+| ex02 | `ft_print_reverse_alphabet` | Displays the alphabet in reverse |
+| ex03 | `ft_print_numbers` | Displays digits 0 to 9 |
+| ex04 | `ft_is_negative` | Displays 'N' or 'P' based on integer sign |
+| ex05 | `ft_print_comb` | Displays combinations of 3 digits |
+| ex06 | `ft_print_comb2` | Displays combinations of two 2-digit numbers |
+| ex07 | `ft_putnbr` | Displays an integer (the overcomplicated one!) |
+| ex08 | `ft_print_combn` | Displays combinations of n digits |
 
+### C01
 (More will come..)
