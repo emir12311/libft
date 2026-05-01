@@ -25,5 +25,9 @@ Hello people! This is just my way of making the library they make you do in the 
 | ex04 | `ft_ultimate_div_mod` | Divides and modulos two integers, overwriting the original values via pointers. |
 | ex05 | `ft_putstr` | Displays a string. |
 | ex06 | `ft_strlen` | Counts and returns the number of characters in a string. |
+| ex07 | `ft_rev_int_tab` | Reverses the order of integers in an array. |
+| ex08 | `ft_sort_int_tab` | Sorts an array of integers in ascending order. |
+
+### C02
 
 (More will come..)
