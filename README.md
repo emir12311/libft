@@ -29,5 +29,8 @@ Hello people! This is just my way of making the library they make you do in the 
 | ex08 | `ft_sort_int_tab` | Sorts an array of integers in ascending order. |
 
 ### C02
-
+| Exercise | Function Name | Description |
+| :--- | :--- | :--- |
+| ex00 | `ft_strcpy` | Copies a string from source to destination and returns the destination pointer. |
+| ex01 | `ft_strncpy` | Copies up to n characters from a string; if the source is shorter than n, the remainder of the destination is padded with null bytes. |
 (More will come..)
