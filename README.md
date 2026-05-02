@@ -38,4 +38,7 @@ Hello people! This is just my way of making the library they make you do in the 
 | ex04 | `ft_str_is_lowercase` | Returns 1 if the string is empty or contains only lowercase letters. |
 | ex05 | `ft_str_is_uppercase` | Returns 1 if the string is empty or contains only uppercase letters. |
 | ex06 | `ft_str_is_printable` | Returns 1 if the string is empty or contains only printable characters. |
+| ex07 | `ft_strupsave` | Converts all lowercase letters in a string to uppercase. |
+| ex08 | `ft_strlowcase` | Converts all uppercase letters in a string to lowercase. |
+| ex09 | `ft_strcapitalize` | Capitalizes the first letter of each word and converts the rest to lowercase. |
 (More will come..)
