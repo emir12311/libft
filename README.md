@@ -41,4 +41,6 @@ Hello people! This is just my way of making the library they make you do in the 
 | ex07 | `ft_strupsave` | Converts all lowercase letters in a string to uppercase. |
 | ex08 | `ft_strlowcase` | Converts all uppercase letters in a string to lowercase. |
 | ex09 | `ft_strcapitalize` | Capitalizes the first letter of each word and converts the rest to lowercase. |
+| ex10 | `ft_strlcpy` | Copies src to dest (up to size - 1 chars), null-terminates if possible, and returns the length of src. |
+| ex11 | `ft_putstr_non_printable` | Displays a string, replacing non-printable characters with \ followed by their lowercase hexadecimal value. |
 (More will come..)
