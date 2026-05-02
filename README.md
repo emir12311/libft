@@ -33,4 +33,9 @@ Hello people! This is just my way of making the library they make you do in the 
 | :--- | :--- | :--- |
 | ex00 | `ft_strcpy` | Copies a string from source to destination and returns the destination pointer. |
 | ex01 | `ft_strncpy` | Copies up to n characters from a string; if the source is shorter than n, the remainder of the destination is padded with null bytes. |
+| ex02 | `ft_str_is_alpha` | Returns 1 if the string is empty or contains only alphabetical characters. |
+| ex03 | `ft_str_is_numeric` | Returns 1 if the string is empty or contains only digits (0-9). |
+| ex04 | `ft_str_is_lowercase` | Returns 1 if the string is empty or contains only lowercase letters. |
+| ex05 | `ft_str_is_uppercase` | Returns 1 if the string is empty or contains only uppercase letters. |
+| ex06 | `ft_str_is_printable` | Returns 1 if the string is empty or contains only printable characters. |
 (More will come..)
