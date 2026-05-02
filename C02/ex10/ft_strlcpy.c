@@ -1,25 +1,38 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_strupcase.c                                     :+:      :+:    :+:   */
+/*   ft_strlcpy.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: emir12311 <emir12311.dev@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/05/02 20:00:00 by emir12311         #+#    #+#             */
-/*   Updated: 2026/05/02 21:43:31 by emir12311        ###   ########.fr       */
+/*   Created: 2026/05/02 20:55:34 by emir12311         #+#    #+#             */
+/*   Updated: 2026/05/02 21:14:25 by emir12311        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-char	*ft_strupcase(char *str)
+int	ft_strlen(char *str)
 {
 	int	i;
 
 	i = 0;
 	while (str[i] != '\0')
-	{
-		if ('a' <= str[i] && str[i] <= 'z')
-			str[i] -= 32;
 		i++;
+	return (i);
+}
+
+unsigned int ft_strlcpy(char *dest, char *src, unsigned int size)
+{
+	unsigned int	i;
+
+	i = 0;
+	if (size != 0)	
+	{
+		while (i < size - 1 && src[i] != '\0')
+		{
+			dest[i] = src[i];
+			i++;
+		}
+		dest[i] = '\0';
 	}
-	return (str);
+	return (ft_strlen(src));
 }
