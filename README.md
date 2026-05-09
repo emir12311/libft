@@ -67,9 +67,10 @@ Hello people! This is just my way of making the library they make you do in the 
 
 | Exercise | Function Name | Description |
 | :--- | :--- | :--- |
-| ex00 | `ft_strcmp` | Copies a string from source to destination and returns the destination pointer. |
-| ex01 | `ft_strncmp` | Copies up to n characters from a string; if the source is shorter than n, the remainder of the destination is padded with null bytes. |
-| ex02 | `ft_strcat` | Returns 1 if the string is empty or contains only alphabetical characters. |
-| ex03 | `ft_strncat` | Returns 1 if the string is empty or contains only digits (0-9). |
+| ex00 | `ft_strcmp` | Compares two strings lexicographically and returns the difference between the first differing characters. |
+| ex01 | `ft_strncmp` | Compares up to n characters of two strings and returns the difference between the first differing characters. |
+| ex02 | `ft_strcat` | Appends the source string to the end of the destination string and returns the destination pointer. |
+| ex03 | `ft_strncat` | Appends up to n characters of the source string to the destination string and returns the destination pointer. |
+(More will come...)
 
 </details>
