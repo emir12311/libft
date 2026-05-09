@@ -1,8 +1,12 @@
 # libft
+
 Hello people! This is just my way of making the library they make you do in the Piscine at 42. Since I am planning to head to 42 Kocaeli after high school, I wanted to start early on the logic and the rules they have. It's definitely different from my usual projects, but it's been great for learning how things work under the hood.
 
 ## Whats inside
-### C00
+
+<details open>
+<summary>C00</summary>
+
 | Exercise | Function Name | Description |
 | :--- | :--- | :--- |
 | ex00 | `ft_putchar` | Outputs a single character. |
@@ -15,7 +19,12 @@ Hello people! This is just my way of making the library they make you do in the 
 | ex07 | `ft_putnbr` | Displays an integer (the overcomplicated one!). |
 | ex08 | `ft_print_combn` | Displays combinations of n digits. |
 
-### C01
+</details>
+
+<details>
+
+<summary>C01</summary>
+
 | Exercise | Function Name | Description |
 | :--- | :--- | :--- |
 | ex00 | `ft_ft` | Sets the value of an integer to 42 through a pointer. |
@@ -28,7 +37,12 @@ Hello people! This is just my way of making the library they make you do in the 
 | ex07 | `ft_rev_int_tab` | Reverses the order of integers in an array. |
 | ex08 | `ft_sort_int_tab` | Sorts an array of integers in ascending order. |
 
-### C02
+</details>
+
+<details>
+
+<summary>C02</summary>
+
 | Exercise | Function Name | Description |
 | :--- | :--- | :--- |
 | ex00 | `ft_strcpy` | Copies a string from source to destination and returns the destination pointer. |
@@ -45,5 +59,17 @@ Hello people! This is just my way of making the library they make you do in the 
 | ex11 | `ft_putstr_non_printable` | Displays a string, replacing non-printable characters with \ followed by their lowercase hexadecimal value. |
 | ex12 | `ft_print_memory` | Displays a memory area in hexadecimal and ASCII format, showing 16 bytes per line. |
 
-### C03
-(More will come..)
+</details>
+
+<details>
+
+<summary>C03</summary>
+
+| Exercise | Function Name | Description |
+| :--- | :--- | :--- |
+| ex00 | `ft_strcmp` | Copies a string from source to destination and returns the destination pointer. |
+| ex01 | `ft_strncmp` | Copies up to n characters from a string; if the source is shorter than n, the remainder of the destination is padded with null bytes. |
+| ex02 | `ft_strcat` | Returns 1 if the string is empty or contains only alphabetical characters. |
+| ex03 | `ft_strncat` | Returns 1 if the string is empty or contains only digits (0-9). |
+
+</details>
