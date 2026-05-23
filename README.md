@@ -71,6 +71,15 @@ Hello people! This is just my way of making the library they make you do in the 
 | ex01 | `ft_strncmp` | Compares up to n characters of two strings and returns the difference between the first differing characters. |
 | ex02 | `ft_strcat` | Appends the source string to the end of the destination string and returns the destination pointer. |
 | ex03 | `ft_strncat` | Appends up to n characters of the source string to the destination string and returns the destination pointer. |
-(More will come...)
+| ex04 | `ft_strstr` | Locates the first occurrence of the full substring in the main string and returns a pointer to it. |
+| ex05 | `ft_strlcat` | Appends the source string to the destination string up to a specified size and returns the total length it tried to create. |
+
+</details>
+
+<details>
+
+<summary>C04</summary>
+
+More will come..
 
 </details>
