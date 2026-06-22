@@ -6,7 +6,7 @@
 /*   By: emir12311 <emir12311.dev@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/02 20:55:34 by emir12311         #+#    #+#             */
-/*   Updated: 2026/05/02 21:14:25 by emir12311        ###   ########.fr       */
+/*   Updated: 2026/06/22 19:26:00 by emir12311        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,12 +20,12 @@ int	ft_strlen(char *str)
 	return (i);
 }
 
-unsigned int ft_strlcpy(char *dest, char *src, unsigned int size)
+unsigned int	ft_strlcpy(char *dest, char *src, unsigned int size)
 {
 	unsigned int	i;
 
 	i = 0;
-	if (size != 0)	
+	if (size != 0)
 	{
 		while (i < size - 1 && src[i] != '\0')
 		{

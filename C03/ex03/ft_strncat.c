@@ -6,13 +6,13 @@
 /*   By: emir12311 <emir12311.dev@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/09 22:51:11 by emir12311         #+#    #+#             */
-/*   Updated: 2026/05/09 22:58:13 by emir12311        ###   ########.fr       */
+/*   Updated: 2026/06/22 19:30:38 by emir12311        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-char *ft_strncat(char *dest, char *src, unsigned int nb)
+char	*ft_strncat(char *dest, char *src, unsigned int nb)
 {
-	int	i;
+	int				i;
 	unsigned int	i_s;
 
 	i = 0;
@@ -26,5 +26,5 @@ char *ft_strncat(char *dest, char *src, unsigned int nb)
 		i_s++;
 	}
 	dest[i] = '\0';
-	return (dest);   
+	return (dest);
 }
